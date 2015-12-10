@@ -37,3 +37,17 @@ function upgradeSandwich (sandwich) {
   // Yeah man lets return upgraded sandwich:
   return sandwich;
 }
+
+/**
+ * @function eatSandwich
+ * @description Finally you can eat your sandwich.
+ * @param {Object} sandwich - Your awesome sandwich.
+ * @return {null} - It's gone now, man ...
+ */
+function eatSandwich (sandwich) {
+  // The 'Om nom nom' part:
+  sandwich = null;
+
+  // ... and what is gone, is gone.
+  return sandwich;
+}
