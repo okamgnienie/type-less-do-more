@@ -1,0 +1,32 @@
+* ----------------------------------- Todos ------------------------------------
+** Presentation for CodeteCon 2015: [80%]
+*** DONE Prepare slides.
+    SCHEDULED: <2015-12-07 Mon>
+    DEADLINE: <2015-12-08 Tue>
+*** DONE Prepare repository on GitHub.
+    SCHEDULED: <2015-12-09 Wed>
+*** DONE Prepare sample code.
+    SCHEDULED: <2015-12-10 Thu>
+*** TODO Prepare sample org-mode file.
+    SCHEDULED: <2015-12-10 Thu>
+*** TODO Do the presentation.
+    SCHEDULED: <2015-12-11 Fri>
+
+
+** DONE Shopping list: [1/3]
+- [X] Milk
+- [ ] Butter
+- [ ] Bread
+
+* ----------------------------------- Tables -----------------------------------
+
+|------+-----+-----+-----+-----+-----+-----+-----|
+| Week | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|------+-----+-----+-----+-----+-----+-----+-----|
+|    1 | X   | X   | X   | X   |     |     |     |
+|    2 |     |     |     |     |     |     |     |
+|    3 |     |     |     |     |     |     |     |
+|    4 |     |     |     |     |     |     |     |
+|------+-----+-----+-----+-----+-----+-----+-----|
+|      |     |     |     |     |     |     |     |
+|------+-----+-----+-----+-----+-----+-----+-----|
