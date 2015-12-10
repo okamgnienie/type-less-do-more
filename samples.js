@@ -23,3 +23,17 @@ var sandwich = {
   bonusCheese: 'Hell yeah!',
   extras: ['tomatoes', 'bananas', 'concrete', 'milk']
 };
+
+/**
+ * @function upgradeSandwich
+ * @description Upgrade sandwich with salad.
+ * @param {Object} sandwich - Your awesome sandwich.
+ * @return {Object} - Even more awesome (and healthy) sandwich!
+ */
+function upgradeSandwich (sandwich) {
+  // Add some salad:
+  sandwich.salad = 'Just salad';
+
+  // Yeah man lets return upgraded sandwich:
+  return sandwich;
+}
