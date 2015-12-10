@@ -7,7 +7,7 @@ Resources for the presentation 'Type less do more.' prepared for the CodeteCon 2
 
 ## Presented modes/plugins for editors
 
-# Ace Jump
+### Ace Jump
 - Emacs [Ace Jump Mode](https://github.com/winterTTr/ace-jump-mode)
 - Sublime Text 2 [Sublime EasyMotion](https://github.com/tednaleid/sublime-EasyMotion)
 - Sublime Text 3 [AceJump](https://github.com/ice9js/ace-jump-sublime)
