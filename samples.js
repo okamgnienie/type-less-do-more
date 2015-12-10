@@ -9,3 +9,8 @@
 //                      CodeteCon 2015 - Cracow, Poland                       //
 //                                                                            //
 ////////////////////////////////////////////////////////////////////////////////
+
+// Just cat:
+var cat = '         /\___/\     What are you looking at?!         ' +
+          '        | o   o |    Listen to him!                    ' +
+          '        |  > <  |                                      ';
