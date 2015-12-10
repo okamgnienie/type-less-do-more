@@ -51,3 +51,6 @@ function eatSandwich (sandwich) {
   // ... and what is gone, is gone.
   return sandwich;
 }
+
+// Here we hit the dead end.
+var dead = 'end';
