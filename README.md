@@ -15,3 +15,9 @@ Resources for the presentation 'Type less do more.' prepared for the CodeteCon 2
 - JetBrains [AceJump](https://github.com/johnlindquist/AceJump)
 - Xcode [XMate](https://github.com/PrideChung/XMate)
 - Atom [smalls](https://github.com/t9md/atom-smalls)
+
+### Magit
+- Emacs [Magit](https://github.com/magit/magit)
+- Vim [vimagit](https://github.com/jreybert/vimagit)
+- Sublime Text 2 & 3 [SublimeGit](https://sublimegit.net)
+- Atom [atomatigit](https://github.com/diiq/atomatigit)
