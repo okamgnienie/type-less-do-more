@@ -21,3 +21,8 @@ Resources for the presentation 'Type less do more.' prepared for the CodeteCon 2
 - Vim [vimagit](https://github.com/jreybert/vimagit)
 - Sublime Text 2 & 3 [SublimeGit](https://sublimegit.net)
 - Atom [atomatigit](https://github.com/diiq/atomatigit)
+
+### Org-mode
+- Emacs [Org-mode](https://github.com/jwiegley/org-mode)
+- Sublime Text 2 & 3 [Org-mode](https://github.com/danielmagnussons/orgmode)
+- Vim [Vim-OrgMode](https://github.com/jceb/vim-orgmode)
